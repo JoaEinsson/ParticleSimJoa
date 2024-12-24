@@ -27,7 +27,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Execute main.py
+Execute Main.py
 ```sh
-python main.py
+python Main.py
 ```
