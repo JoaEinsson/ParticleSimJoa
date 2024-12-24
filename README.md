@@ -8,7 +8,7 @@ This project creates a 3D particle simulation using Python and matplotlib. The p
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/your_user/particle-simulation.git
+git clone https://github.com/JoaEinsson/ParticleSimJoa.git
 ```
 
 2. Navigate to the project directory:
